@@ -36,7 +36,7 @@
 
 ## 🧑‍💻 My Role (Original Kustaurant Project)
 
-기존 쿠스토랑 팀 사이드 프로젝트에서 다음 역할을 담당했습니다.
+기존 쿠스토랑 팀 프로젝트에서 다음 역할을 담당했습니다.
 
 ### 🔹 서비스 초기 설계
 - 전체 기술 스택 선정 (Backend / Frontend / Infra)
