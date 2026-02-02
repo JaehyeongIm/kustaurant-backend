@@ -1,6 +1,13 @@
 
+
+
 <p align="middle" >
   <img src="https://github.com/user-attachments/assets/1a4e00c9-f37c-46b9-8c1e-22018fa60768" alt="kustaurant-logo" width="320" height="80">
+</p>
+
+<p align="middle">
+  본 저장소는 팀 사이드 프로젝트 <strong>쿠스토랑</strong>에서<br>
+  본인이 직접 설계·구현을 담당했던 영역을 기반으로 재구성한 개인 리포지터리입니다.
 </p>
 <p align="middle" >건국대학교 대표 맛집 확인서비스</p>
 <p align="middle" ><strong>'티어'</strong> 로 맛집확인, <strong>'뽑기'</strong> 로 맛집추천, <strong>'제휴서비스'</strong> 로 혜택맛집을 한눈에 알아보자!</p>
@@ -13,6 +20,9 @@
         <img src="https://github.com/user-attachments/assets/e0a85067-c2d0-498a-8eb7-4697fe88c0cf" width="100">
     </a>
 </div>
+
+
+
 
 <br>
   
@@ -37,11 +47,3 @@ web은 기존 클래스 명으로, 모바일은 클래스마다 api를 붙여 �
 첫번째 프로젝트는 web + web서버에서 시작하여 이후 모바일로 확장함에 따라 이전 레포에서 현제 레포로 이전후 추가 작업을 이어갔습니다.  
 이전레포 -> https://github.com/JaehyeongIm/RestaurantTier
 
-<br>
-
-## 🌆  Backend Members
-|Ding-woon|Kyung-bo|Jae-hyeong|
-|:-:|:-:|:-:|
-|<img src="https://github.com/user-attachments/assets/b9478ab7-b1b6-4313-bbc8-38e195364dde" alt="dingwoonee" width="100" height="100">|<img src="https://github.com/user-attachments/assets/b41b6c42-76fd-4b9a-99eb-7676b64ef9e3" alt="kyung-bo" width="100" height="100">|<img src="https://github.com/user-attachments/assets/ac8cfcf7-8fc5-4232-8c0a-8492399feb56" alt="jae-hyeong" width="100" height="100">|
-|[DingWoonee](https://github.com/DingWoonee)|[Wcwdfu](https://github.com/Wcwdfu)|[JaehyeongIm](https://github.com/JaehyeongIm)|
-<br>    
