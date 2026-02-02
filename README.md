@@ -38,7 +38,7 @@
 <br>
   
 ## <img src="https://github.com/user-attachments/assets/1e1a6499-37cc-4a8f-bbb3-5acbca24a4e7" alt="kustaurant-logo" width="30" height="30"> 서비스 소개
-건국대 학생들을 대상으로 건국대 맛집을 신뢰할 수 있는 순위로 나열해 제공하는 웹, 앱 서비스
+건국대 학생들을 건국대 주변 맛집 순위를 제공하는 웹, 앱 서비스
 
 
 소개 페이지 확인해보기 -> <a href="https://leeward-foam-2c2.notion.site/11e5483fde8a80a9889af04812a85f49?pvs=74" target="_blank"> 노션 페이지로 이동 </a>
