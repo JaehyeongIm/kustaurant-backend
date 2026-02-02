@@ -34,7 +34,7 @@
 
 
 
-## 🧑‍💻 My Role (Original Kustaurant Project)
+## 🧑‍💻 My Role
 
 기존 쿠스토랑 팀 프로젝트에서 다음 역할을 담당했습니다.
 
