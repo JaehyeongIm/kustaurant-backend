@@ -7,11 +7,22 @@
 
 <p align="middle">
   본 저장소는 팀 사이드 프로젝트 <strong>쿠스토랑</strong>에서<br>
-  본인이 직접 설계·구현을 담당했던 영역을 기반으로 재구성한 개인 리포지터리입니다.
+  본인이 직접 설계·구현을 담당했던 영역을 기반으로 재구성한 <strong>개인</strong> 리포지터리입니다.
 </p>
 <p align="middle" >건국대학교 대표 맛집 확인서비스</p>
 <p align="middle" ><strong>'티어'</strong> 로 맛집확인, <strong>'뽑기'</strong> 로 맛집추천, <strong>'제휴서비스'</strong> 로 혜택맛집을 한눈에 알아보자!</p>
-<a href="https://kustaurant.com/" target="_blank"><p align="middle" >쿠스토랑 웹사이트 바로가기</p></a>
+<p align="center">
+  <a href="https://kustaurant.com/" target="_blank">
+    쿠스토랑 웹사이트 바로가기
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kustaurant/BackEnd-integration" target="_blank">
+    원본 리포지터리 바로가기
+  </a>
+</p>
+
 <div align="center">
     <a href="https://play.google.com/store/apps/details?id=com.kust.kustaurant">
         <img src="https://github.com/user-attachments/assets/9c5549f2-4a3b-4b32-8577-3399a3016c9c" width="100">
