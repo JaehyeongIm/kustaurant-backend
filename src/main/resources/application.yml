@@ -1,0 +1,34 @@
+spring:
+  profiles:
+    active: local
+  config:
+    import:
+      - "optional:auth.yml"
+      - "optional:.env"
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: "10MB"
+      max-request-size: "10MB"
+
+  thymeleaf:
+    encoding: "UTF-8"
+
+  jpa:
+    hibernate.ddl-auto: validate
+  cloud:
+    aws:
+      region:
+        static: "ap-northeast-2"
+      credentials:
+        access-key: "${AWS_ACCESS_KEY}"
+        secret-key: "${AWS_SECRET_KEY}"
+      s3:
+        bucket: kustaurant
+
+# logging level
+logging.level.com.kustaurant: trace
+
+# custom setting
+restaurant:
+  initialDisplayMenuCount: 2
