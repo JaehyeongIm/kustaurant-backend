@@ -6,7 +6,7 @@
 </p>
 
 <p align="middle">
-  본 저장소는 포트폴리오 용도로 팀 사이드 프로젝트 <strong>쿠스토랑</strong>에서<br>
+  본 저장소는 포트폴리오 용도로 팀 프로젝트 <strong>쿠스토랑</strong>에서<br>
   본인이 직접 설계·구현을 담당했던 영역을 기반으로 재구성한 <strong>개인</strong> 리포지터리입니다.
 </p>
 <p align="middle" >건국대학교 대표 맛집 확인서비스</p>
